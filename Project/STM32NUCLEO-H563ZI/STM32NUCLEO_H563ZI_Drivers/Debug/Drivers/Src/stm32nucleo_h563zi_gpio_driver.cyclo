@@ -1,0 +1,11 @@
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:26:6:GPIO_init	16
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:133:6:GPIO_deinit	10
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:192:6:GPIO_peripheralClockControl	20
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:276:9:GPIO_readFromInputPin	1
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:285:10:GPIO_readFromInputPort	1
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:294:6:GPIO_writeToOutputPin	2
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:308:6:GPIO_writeToOutputPort	1
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:315:6:GPIO_toggleOutputPin	1
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:322:6:GPIO_IRQInterruptConfig	20
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:385:6:GPIO_IRQPriorityConfig	1
+../Drivers/Src/stm32nucleo_h563zi_gpio_driver.c:397:6:GPIO_IRQHandling	8

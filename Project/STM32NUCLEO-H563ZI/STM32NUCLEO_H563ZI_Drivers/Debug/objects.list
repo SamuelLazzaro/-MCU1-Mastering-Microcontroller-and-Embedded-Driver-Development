@@ -1,0 +1,5 @@
+"./Drivers/Src/stm32nucleo_h563zi_gpio_driver.o"
+"./Src/005_button_external.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32h563zitx.o"
